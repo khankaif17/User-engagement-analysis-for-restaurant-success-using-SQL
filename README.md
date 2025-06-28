@@ -49,6 +49,19 @@ Elite users are fewer but contribute a higher volume of reviews.
 Engagement patterns vary by hour, with peak times around meal hours.
 Average ratings have seasonal variations.
 
+### 🧑‍🍳 1. Elite vs Non-Elite User Distribution
+![Elite Distribution](images/elite_user_distribution.png)
+
+### ⏰ 2. Hourly Review Engagement
+![Review Hourly](images/review_distribution_by_hour.png)
+
+### 🌡️ 3. Average Rating Over Time
+![Avg Rating](images/avg_rating_over_time.png)
+
+### 🔍 4. Seasonal Decomposition of Tips
+![Decomposition](images/seasonal_decomposition_tips.png)
+
+
 📝 License
 This project is licensed under the MIT License.
 
